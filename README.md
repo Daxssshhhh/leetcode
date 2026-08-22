@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Daxssshhhh/leetcode/tree/master/0066-plus-one) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Daxssshhhh/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
 | ------- |
