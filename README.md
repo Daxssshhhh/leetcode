@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Daxssshhhh/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Daxssshhhh/leetcode/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/Daxssshhhh/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Daxssshhhh/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Daxssshhhh/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Daxssshhhh/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Daxssshhhh/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Daxssshhhh/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
