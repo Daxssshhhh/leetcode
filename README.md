@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Daxssshhhh/leetcode/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/Daxssshhhh/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Daxssshhhh/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/Daxssshhhh/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Prefix Sum
 |  |
 | ------- |
